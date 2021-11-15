@@ -21,7 +21,7 @@ The default(earth) boundary is set on the  appsettings.json file, and it's confi
 - The default capacity is set on the appsettings.json file, and it's configurable.
 
 ### Dependencies:
-##### .Net core 5
+##### .Net 5
 ##### SQL Server - EntityFrameworkCore 
   
   
